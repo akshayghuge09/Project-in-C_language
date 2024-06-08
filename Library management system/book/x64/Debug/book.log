@@ -1,0 +1,6 @@
+﻿  book1.c
+C:\Users\akkig\Desktop\fbs\book\book\book1.c(121): warning C4716: 'delete_id': must return a value
+C:\Users\akkig\Desktop\fbs\book\book\book1.c(184): warning C4716: 'update': must return a value
+C:\Users\akkig\Desktop\fbs\book\book\book1.c(95): warning C4716: 'insert': must return a value
+C:\Users\akkig\Desktop\fbs\book\book\book1.c(375): warning C4716: 'storevalue': must return a value
+  book.vcxproj -> C:\Users\akkig\Desktop\fbs\book\x64\Debug\book.exe
